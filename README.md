@@ -9,6 +9,7 @@ In this course you will learn how to use WPCOM with a WordPress.com site. You'll
 ## Source Files Description
 
 This repo contains the source for the small project we built in the course—a demo of how to access the WPCOM.js API.
+
 ------
 
 These are source files for the Envato Tuts+ course: [Get Started With the WPCOM.js WordPress API][published url]
